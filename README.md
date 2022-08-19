@@ -70,7 +70,7 @@ Here are some of the important findings based on the results from above testing 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Yessy Project 2.ipynb)
+See the full analysis in the [[Jupyter Notebook](./Yessy Project 2.ipynb)](https://github.com/YessyLee/Yessy-Project-2/blob/9b4dd5531d7552dbf9ba153a313ecf33946fb4dc/Yessy%20Project%202.ipynb)
 
 For additional info, contact Yessy Rayner at [yessy.rayner@gmail.com](mailto:yessy.rayner@gmail.com)
 

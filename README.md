@@ -1,4 +1,4 @@
-![Yessy-Project-2](.images/DAT_Project2_Presentation_Yessy.jpeg)
+![Yessy-Project-2](./images/DAT_Project2_Presentation_Yessy.jpeg)
 
 # Business Analysis on Property Investment in Kings County, CA
 
